@@ -1,6 +1,15 @@
+A daily dev log for my journey into the game development world. I'm going to try this at least for a year.  
+
+### Motivation
+
+- Get good at game dev, try out different techniques every day
+- To find out some general learning patterns. Everybody learns differently, but I want to find out whether a learning ladder (or roadmap) can accelerate knowledge acquisition.
+
 ### 8 Oct 2021
 
+Coded a basic [brick breaker](https://github.com/bejoygm/game-experiments) game using pygame. Adding some collectable perks (like bullets, multiply balls etc)
 
+Reading [Game Programming Patterns](https://gameprogrammingpatterns.com/) was a good idea. I can already identify some areas where I could apply those patterns
 
 ---
 
