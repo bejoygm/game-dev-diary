@@ -5,6 +5,13 @@ A daily dev log for my journey into the game development world. I'm going to try
 - Get good at game dev, try out different techniques every day
 - To find out some general learning patterns. Everybody learns differently, but I want to find out whether a learning ladder (or roadmap) can accelerate knowledge acquisition.
 
+### 9 Oct 2021
+
+- Add perks spawn in [brick breaker](https://github.com/bejoygm/game-experiments)
+- Explored some ideas around solarpunk in preparation of Godot game jam.
+
+---
+
 ### 8 Oct 2021
 
 Coded a basic [brick breaker](https://github.com/bejoygm/game-experiments) game using pygame. Adding some collectable perks (like bullets, multiply balls etc)
