@@ -5,6 +5,15 @@ A daily dev log for my journey into the game development world. I'm going to try
 - Get good at game dev, try out different techniques every day
 - To find out some general learning patterns. Everybody learns differently, but I want to find out whether a learning ladder (or roadmap) can accelerate knowledge acquisition.
 
+### 11 Oct 2021
+
+- Added music/sounds in [brick breaker](https://github.com/bejoygm/game-experiments)
+- Movement logic, player and enemy creation from [Make Your First 2D Game with Godot](https://www.youtube.com/watch?v=Mc13Z2gboEk) 
+- [VisibilityEnabler2D](https://docs.godotengine.org/en/stable/classes/class_visibilityenabler2d.html#visibilityenabler2d) is some cool stuff
+- There's a ctrl+shift+enter shortcut?! After 5 years of programming here I am
+
+---
+
 ### 10 Oct 2021
 
 - More [Game Programming Patterns](https://gameprogrammingpatterns.com/) . Prototype and Singleton pattern
@@ -29,7 +38,7 @@ Reading [Game Programming Patterns](https://gameprogrammingpatterns.com/) was a 
 
 ### 7 Oct 2021
 
-Watched [How I learned Unity without following tutorials](https://www.youtube.com/watch?v=vFjXKOXdgGo) . A coincidence (or maybe not!) that I have the exact same thoughts. The gist being, stop getting stuck at tutorial hell, just learn the basic amount of start to begin with and start tinkering on your own.
+Watched [How I learned Unity without following tutorials](https://www.youtube.com/watch?v=vFjXKOXdgGo) . A coincidence (or maybe not!) that I have the exact same thoughts. The gist being, stop getting stuck at tutorial hell, just learn the basic amount to begin with and start tinkering on your own.
 
 Also, more [Game Programming Patterns](https://gameprogrammingpatterns.com/) as usual.
 
