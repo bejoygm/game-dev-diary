@@ -5,6 +5,14 @@ A daily dev log for my journey into the game development world. I'm going to try
 - Get good at game dev, try out different techniques every day
 - To find out some general learning patterns. Everybody learns differently, but I want to find out whether a learning ladder (or roadmap) can accelerate knowledge acquisition.
 
+### 12 Oct 2021
+
+- Couldn't figure out enemy collision logic in [Make Your First 2D Game with Godot](https://www.youtube.com/watch?v=Mc13Z2gboEk), wasted around 3+ hours
+-  Moved onto [Miziziziz Godot Tutorial](https://www.youtube.com/watch?v=lU-4dfo0-RA)
+- [Creating particle effects in pygame](https://www.youtube.com/watch?v=yfcsB3SGsKY). Interesting
+
+---
+
 ### 11 Oct 2021
 
 - Added music/sounds in [brick breaker](https://github.com/bejoygm/game-experiments)
