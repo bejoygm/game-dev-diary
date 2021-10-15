@@ -5,6 +5,19 @@ A daily dev log for my journey into the game development world. I'm going to try
 - Get good at game dev, try out different techniques every day
 - To find out some general learning patterns. Everybody learns differently, but I want to find out whether a learning ladder (or roadmap) can accelerate knowledge acquisition.
 
+### 14 Oct 2021
+
+- Completed [Miziziziz Godot Tutorial](https://www.youtube.com/watch?v=lU-4dfo0-RA), best tutorial to get started for beginners so far.
+
+---
+
+### 13 Oct 2021
+
+- Continuing with [Miziziziz Godot Tutorial](https://www.youtube.com/watch?v=lU-4dfo0-RA)
+- Learned about [RayCast2D](https://docs.godotengine.org/en/stable/classes/class_raycast2d.html)
+
+---
+
 ### 12 Oct 2021
 
 - Couldn't figure out enemy collision logic in [Make Your First 2D Game with Godot](https://www.youtube.com/watch?v=Mc13Z2gboEk), wasted around 3+ hours
