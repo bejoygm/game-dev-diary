@@ -5,6 +5,30 @@ A daily dev log for my journey into the game development world. I'm going to try
 - Get good at game dev, try out different techniques every day
 - To find out some general learning patterns. Everybody learns differently, but I want to find out whether a learning ladder (or roadmap) can accelerate knowledge acquisition.
 
+### 18 Oct 2021
+
+- 🌊 Floods! No power, no work done
+
+---
+
+### 17 Oct 2021
+
+- Tried some recipes from  [Godot Recipes](https://kidscancode.org/godot_recipes/). Excellent resources after learning some basics.
+
+---
+
+### 16 Oct 2021
+
+- Animations for solarpunk game.
+
+---
+
+### 15 Oct 2021
+
+- Started working on solarpunk themed game. Some player movement code.
+
+---
+
 ### 14 Oct 2021
 
 - Completed [Miziziziz Godot Tutorial](https://www.youtube.com/watch?v=lU-4dfo0-RA), best tutorial to get started for beginners so far.
