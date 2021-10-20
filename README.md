@@ -5,6 +5,12 @@ A daily dev log for my journey into the game development world. I'm going to try
 - Get good at game dev, try out different techniques every day
 - To find out some general learning patterns. Everybody learns differently, but I want to find out whether a learning ladder (or roadmap) can accelerate knowledge acquisition.
 
+### 19 Oct 2021
+
+- Finally figured out the enemy collision logic in [Make Your First 2D Game with Godot](https://www.youtube.com/watch?v=Mc13Z2gboEk)
+
+---
+
 ### 18 Oct 2021
 
 - 🌊 Floods! No power, no work done
